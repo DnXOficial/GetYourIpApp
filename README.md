@@ -2,7 +2,16 @@
 
 É um simples aplicativo, onde se objetivo é facilitar o acesso ao seu Endereço IPV4 (IP [IPv4]).
 
-## Usage
+# Como Usar?
+1- Extraia o arquivo ultilizando Winrar
+2- Depois abra a pasta GetYourIpApp, depois abra a pasta HyperData
+3- Execute o arquivo data.py
+
+# Login
+Usuario: admin
+/ Senha: admin
+
+## Codigo
 
 ```python
 import sys
